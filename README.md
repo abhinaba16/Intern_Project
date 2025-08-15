@@ -28,20 +28,6 @@ To create a polished mobile app with:
 
 ---
 
-## 📂 Folder Structure
-```
-/components      # Reusable UI components
-/screens         # HomeScreen & BrandDetailScreen
-/assets          # Images and icons
-/services        # API calls and backend integration
-/navigation      # App navigation setup
-/constants       # Static constants and theme
-/utils           # Helper functions
-App.js           # Entry point
-```
-
----
-
 ## 🎨 UI & Styling
 - Gradient backgrounds implemented using:
   - **react-native-svg** with `<RadialGradient>`  
@@ -96,5 +82,5 @@ Scan the QR code using the **Expo Go** app (iOS/Android) to run the app.
 ---
 
 ### 🔗 Live Preview
-- **ExpoGo Link / QR Code**: *[Add here once deployed]*
+- **ExpoGo Link / QR Code**: *[https://lovable.dev/projects/a3817a9d-2e84-47e0-941d-63a59b1e40ab]*
 - **GitHub Repo**: *[Add your repo link here]*
