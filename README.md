@@ -83,4 +83,4 @@ Scan the QR code using the **Expo Go** app (iOS/Android) to run the app.
 
 ### 🔗 Live Preview
 - **ExpoGo Link / QR Code**: *[https://lovable.dev/projects/a3817a9d-2e84-47e0-941d-63a59b1e40ab]*
-- **GitHub Repo**: *[Add your repo link here]*
+- **GitHub Repo**: *[https://github.com/abhinaba16/Intern_Project.git]*
